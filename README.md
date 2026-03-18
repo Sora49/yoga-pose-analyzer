@@ -1,6 +1,6 @@
 # Yoga Pose Analyzer 🧘‍♀️
 
-An AI-powered yoga pose analyzer that uses computer vision to detect and correct yoga poses.
+An yoga pose analyzer that uses computer vision to detect and correct yoga poses.
 
 ## Features
 
